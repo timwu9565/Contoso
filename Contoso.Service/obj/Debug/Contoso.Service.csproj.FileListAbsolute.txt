@@ -1,0 +1,16 @@
+C:\Users\wutia\source\repos\Contoso\Contoso.Service\bin\Debug\Contoso.Service.dll
+C:\Users\wutia\source\repos\Contoso\Contoso.Service\bin\Debug\Contoso.Service.pdb
+C:\Users\wutia\source\repos\Contoso\Contoso.Service\bin\Debug\Contoso.Data.dll
+C:\Users\wutia\source\repos\Contoso\Contoso.Service\bin\Debug\Contoso.Helpers.dll
+C:\Users\wutia\source\repos\Contoso\Contoso.Service\bin\Debug\Contoso.Models.dll
+C:\Users\wutia\source\repos\Contoso\Contoso.Service\bin\Debug\Contoso.Data.pdb
+C:\Users\wutia\source\repos\Contoso\Contoso.Service\bin\Debug\Contoso.Helpers.pdb
+C:\Users\wutia\source\repos\Contoso\Contoso.Service\bin\Debug\Contoso.Models.pdb
+C:\Users\wutia\source\repos\Contoso\Contoso.Service\obj\Debug\Contoso.Service.csprojAssemblyReference.cache
+C:\Users\wutia\source\repos\Contoso\Contoso.Service\obj\Debug\Contoso.Service.csproj.CopyComplete
+C:\Users\wutia\source\repos\Contoso\Contoso.Service\obj\Debug\Contoso.Service.dll
+C:\Users\wutia\source\repos\Contoso\Contoso.Service\obj\Debug\Contoso.Service.pdb
+C:\Users\wutia\source\repos\Contoso\Contoso.Service\bin\Debug\EntityFramework.dll
+C:\Users\wutia\source\repos\Contoso\Contoso.Service\bin\Debug\Contoso.Data.dll.config
+C:\Users\wutia\source\repos\Contoso\Contoso.Service\bin\Debug\Contoso.Models.dll.config
+C:\Users\wutia\source\repos\Contoso\Contoso.Service\bin\Debug\EntityFramework.xml

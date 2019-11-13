@@ -1,0 +1,5 @@
+C:\Users\wutia\source\repos\Contoso\Contoso.Helpers\bin\Debug\Contoso.Helpers.dll
+C:\Users\wutia\source\repos\Contoso\Contoso.Helpers\bin\Debug\Contoso.Helpers.pdb
+C:\Users\wutia\source\repos\Contoso\Contoso.Helpers\obj\Debug\Contoso.Helpers.csprojAssemblyReference.cache
+C:\Users\wutia\source\repos\Contoso\Contoso.Helpers\obj\Debug\Contoso.Helpers.dll
+C:\Users\wutia\source\repos\Contoso\Contoso.Helpers\obj\Debug\Contoso.Helpers.pdb
